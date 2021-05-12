@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
-    "codemirror": "^5.34.0",
+    "codemirror": "^5.58.2",
     "element-ui": "^2.2.0",
     "eslint_d": "^5.2.2",
     "r2": "^2.0.0",
